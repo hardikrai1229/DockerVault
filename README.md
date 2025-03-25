@@ -1,6 +1,6 @@
-# 🐳 My-Docker-Dockyard ⚓  
+# 🐳 DockerVault ⚓  
 
-Welcome to **My-Docker-Dockyard**! 🌊 This repository is my personal **dockyard of containerized wonders**, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀  
+Welcome to **DockerVault**! 🌊 This repository is my personal **dockerVault of containerized wonders**, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀  
 
 ## 📦 Containerization Concepts Aboard:  
 
@@ -44,9 +44,6 @@ Welcome to **My-Docker-Dockyard**! 🌊 This repository is my personal **dockyar
 - **Goal:** Deploy a **microservices-based application** using Docker Swarm for **scalability and reliability**.  
 - **Key Focus:** Load balancing, service discovery, and distributed applications.  
 
-### 11. [Running a Streamlit App in Docker on AWS EC2 ☁️](Running%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2)  
-- **Goal:** Deploy a **Streamlit application** inside a Docker container on an **AWS EC2 instance**.  
-- **Key Focus:** Cloud deployment, networking, and containerized application hosting.  
 
 ### 12. [Bakery Foundation Example on Windows 🍞](Bakery%20Foundation%20Example%20on%20Windows)  
 - **Goal:** Set up **Packer** on Windows to create a **custom Amazon Machine Image (AMI)** with Python 3.9.  
@@ -54,7 +51,7 @@ Welcome to **My-Docker-Dockyard**! 🌊 This repository is my personal **dockyar
 
 ---
 
-## 🌊 Why This Dockyard? ⚓  
+## 🌊 Why This DockerVault? ⚓  
 This repository is my **adventure in containerization**, where I explore the depths of Docker’s potential! 🛠️💡  
 - **Goal:** To master **containerized applications, networking, storage, and deployments** in real-world scenarios.  
 - **Approach:** Hands-on projects that focus on **modular, scalable, and production-ready** implementations.  
@@ -62,4 +59,4 @@ This repository is my **adventure in containerization**, where I explore the dep
 
 ---
 
-🌟 **Stay tuned for more innovations from the dockyard!** ⚓🚀  
+🌟 **Stay tuned for more innovations from the dockerVault!** ⚓🚀  
