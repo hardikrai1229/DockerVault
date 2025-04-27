@@ -39,7 +39,7 @@ docker exec -it alpine_with_bind_mount sh -c "cat /data/testfile.txt"
 ```
 #### 📌 Output:
 ```
-Hello, Tarak!
+Hello, Hardik!
 ```
 This confirms that the file was successfully created and accessible inside the container. 🎉
 
